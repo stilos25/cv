@@ -49,15 +49,20 @@ Leadership, Teamwork, Project Management
 *Laboratory of Computational Modeling (CMODLAB)*, Department of Information Technology, Corfu, Greece.
 
 ## Conferences and Workshops
-`June 2017`
+
+`28 - 30 September 2018`
+**Member of the Organizing Commitee**,  
+*12th Mediterranean Conference on Information Systems*, Ionian University, Corfu, Greece
+
+`30 May - 3 June 2017`
 **Member of the Organizing Commitee**,  
 *Panhellenic Symposium on Oceanography and Fisheries*, Ionian University, Corfu, Greece
 
-`November 2017`
+`6 - 10 November 2017`
 **Member of the Organizing Commitee**,  
 *Medical Physics and Biomedical Engineering*, Ionian University, Corfu, Greece
 
-`September 2017`
+`28 - 30 September 2017`
 **Attendee**,  
 *21st Pan-Hellenic Conference on Informatics*, TEI of Thessaly, Larissa, Greece
 
