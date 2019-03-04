@@ -1,7 +1,9 @@
 language: bash
 
 before_install:
-  - sudo apt-get install pandoc texlive-xetex
+  - sudo apt-get install texlive-xetex
+  - wget https://github.com/jgm/pandoc/releases/download/2.6/pandoc-2.6-linux.tar.gz
+  - tar xvfz pandoc-2.6-linux.tar.gz 
 
 script:
     - bash deploy.sh
