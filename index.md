@@ -79,6 +79,5 @@ Citizenship: Greek
 
 Residence: Greece (Permanent resident)<br/>
 
-PDF version [here](./cv.pdf)
-
 <br/>Last updated: October 2018<br/><br/>
+PDF version [here](./cv.pdf)
