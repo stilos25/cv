@@ -14,4 +14,5 @@ deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
   file: "./cv.pdf"
+  skip-cleanup: true
   overwrite: true
