@@ -1,9 +1,7 @@
 language: bash
 
 before_install:
-  - sudo apt-get install texlive-xetex
-  - wget https://github.com/jgm/pandoc/releases/download/2.6/pandoc-2.6-linux.tar.gz
-  - tar xvfz pandoc-2.6-linux.tar.gz 
+    - sudo apt-get install chromium
 
 script:
     - bash deploy.sh
