@@ -1,7 +1,7 @@
 language: bash
 
 before_install:
-  - sudo apt-get install pandoc
+  - sudo apt-get install pandoc texlive-xetex
 
 script:
     - bash deploy.sh
