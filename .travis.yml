@@ -1,7 +1,7 @@
 language: bash
 
 before_install:
-  - sudo apt-get install texlive texlive-xetex texlive-math-extra
+  - sudo apt-get install texlive texlive-xetex texlive-math-extra texlive-extras
   - wget https://github.com/jgm/pandoc/releases/download/2.6/pandoc-2.6-linux.tar.gz
   - tar xvfz pandoc-2.6-linux.tar.gz
 
