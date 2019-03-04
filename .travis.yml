@@ -1,5 +1,4 @@
-deploy:
-    provider: script
-    script: bash deploy.sh
-    on:
-        branch: master
+language: bash
+
+script:
+    - bash deploy.sh
