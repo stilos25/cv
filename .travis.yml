@@ -6,9 +6,5 @@ before_install:
 - tar xvfz pandoc-2.6-linux.tar.gz
 script:
 - bash deploy.sh
-deploy:
-  provider: releases
-  api_key: $GITHUB_TOKEN
-  file: "./cv.pdf"
-  skip-cleanup: true
-  overwrite: true
+after_success:
+- bash push.sh
