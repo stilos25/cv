@@ -10,6 +10,7 @@ commit_pdf() {
 }
 
 upload_files() {
+  git remote remove origin
   git remote add origin https://spirosbax:$GITHUB_TOKEN@github.com/spirosbax/cv.git
   git push --quiet --set-upstream origin
 }
