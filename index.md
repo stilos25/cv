@@ -34,7 +34,7 @@ Also president & founder of the IEEE Student Branch of Ionian University.
 * Distributed Systems
 * Data engineering
 * Machine Learning,  
-But most importantly trying to do something __impactful__ and improve the lifes of people.  
+But most importantly trying to do something __impactful__ and improve the lives of people.  
 
 ## Skills
 *(More experienced --> least experienced)*  
