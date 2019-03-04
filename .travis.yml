@@ -1,7 +1,7 @@
 language: bash
 
 before_install:
-    - sudo apt-get install chromium
+    - sudo apt-get install wkhtmltopdf
 
 script:
     - bash deploy.sh

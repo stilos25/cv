@@ -1,1 +1,1 @@
-chromium --headless --print-to-pdf https://spirosbax.com/cv
+wkhtmltopdf https://spirosbax.com/cv cv.pdf
