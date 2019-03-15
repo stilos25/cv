@@ -11,7 +11,7 @@ Kanalia - Kalithea, Corfu, Greece<br/>
 <a href="spiros.baxevanakis@gmail.com">spiros.baxevanakis@gmail.com</a> - +030 698 464 754
 
 <div id="webaddress">
-  <a href="https://spirosbax.com"><i class="fas fa-home"></i> spirosbax.me</a> - 
+  <a href="https://spirosbax.com"><i class="fas fa-home"></i> spirosbax.com</a> - 
   <a href="https://github.com/spirosbax"><i class="fab fa-github"></i> spirosbax</a> - 
   <a href="https://twitter.com/spirosbax"><i class="fab fa-twitter"></i> @spirosbax</a> <br>
   <a href="http://t.me/spirosbax"><i class="fab fa-telegram"></i> spirosbax</a> -
